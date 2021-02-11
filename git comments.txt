@@ -1,0 +1,12 @@
+$ git config --global user.email 'satish.qc01@gmail.com'
+git init
+$ git add -A
+git status
+$ git commit -m "bdd code"
+$ git remote add origin https://github.com/saroy24/cypress.git
+$ git push -u origin master
+
+$ git clone https://github.com/saroy24/cypress.git
+ git mearge
+
+https://github.com/saroy24/cypress.git
